@@ -1,11 +1,11 @@
 # CUTE EYE ANIMATION USING ESP32 & 0.96 INCH OLED DISPLAY
 
 # Video Link👇 
-Instagram 👉 https://www.instagram.com/techtadka360official/reel/DeCETMKpE3v/?hl=en
+Instagram 👉 https://www.instagram.com/techtadka360official/reel/Dd6aJkapidF/?hl=en
 
-YouTube 👉 https://youtube.com/shorts/njIbPGPkSRY?si=BmMRdTKprkRFIpqG
+YouTube 👉 https://youtube.com/shorts/xK6OXR0_2_s?si=ClFfZ1PyrzObqLe2
 
-Facebook 👉 https://www.facebook.com/share/r/19rY6sfFSX/
+Facebook 👉 https://www.facebook.com/share/r/19nX8VJn97/
 
 ## Connect with TechTadka360💝👇
 
@@ -13,12 +13,7 @@ Facebook 👉 https://www.facebook.com/share/r/19rY6sfFSX/
 - Instagram: [@techtadka360official](https://www.instagram.com/techtadka360official?igsh=cWR4bnhjdWw1MHdh)
 - Facebook: [TechTadka360](https://www.facebook.com/share/1EkKAJNLdB/)
 
-  <img width="361" height="552" alt="image" src="https://github.com/user-attachments/assets/8e78fdef-6990-4b56-ac00-64c47270876c" />
-
-# Video Link👇 
-https://www.instagram.com/techtadka360official/reel/DeCETMKpE3v/?hl=en
-https://youtube.com/shorts/njIbPGPkSRY?si=BmMRdTKprkRFIpqG
-https://www.facebook.com/share/r/19rY6sfFSX/
+ <img width="326" height="482" alt="image" src="https://github.com/user-attachments/assets/3fb565bb-adda-42e4-b5b7-5e05a15922ff" />
 
 ## 🛠️ Hardware Required
 
